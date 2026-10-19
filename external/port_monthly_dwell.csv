@@ -1,0 +1,156 @@
+﻿Port,Year,Month,Period,Container Volumes (TEUS),Number of Vessel Calls (#),Avg. Vessel Time at Berth (days),Avg. Vessel Volume (=TEU/call),Avg. Import Rail Container Dwell Time (days)
+Vancouver,2024,Jan,Monthly," 262,881 ",49,,"5,365",5.2
+Vancouver,2024,Feb,Monthly," 291,242 ",48,,"6,068",6.7
+Vancouver,2024,Mar,Monthly," 307,403 ",52,,"5,912",7.3
+Vancouver,2024,Apr,Monthly," 293,924 ",53,,"5,546",6.4
+Vancouver,2024,May,Monthly," 311,572 ",59,,"5,281",6.5
+Vancouver,2024,Jun,Monthly," 302,687 ",55,,"5,503",4.6
+Vancouver,2024,Jul,Monthly," 307,438 ",56,,"5,490",4.0
+Vancouver,2024,Aug,Monthly," 303,363 ",55,,"5,516",6.3
+Vancouver,2024,Sep,Monthly," 303,235 ",54,,"5,615",6.0
+Vancouver,2024,Oct,Monthly," 278,502 ",47,,"5,926",4.5
+Vancouver,2024,Nov,Monthly," 233,941 ",40,,"5,849",5.3
+Vancouver,2024,Dec,Monthly," 274,110 ",47,,"5,832",6.9
+Vancouver,2025,Jan,Monthly," 329,757 ",57,,"5,785",8.2
+Vancouver,2025,Feb,Monthly," 251,909 ",42,,"5,998",8.5
+Vancouver,2025,Mar,Monthly," 295,926 ",51,,"5,802",7.7
+Vancouver,2025,Apr,Monthly," 318,613 ",52,,"6,127",6.3
+Vancouver,2025,May,Monthly," 355,106 ",60,,"5,918",4.3
+Vancouver,2025,Jun,Monthly," 326,468 ",56,,"5,830",3.1
+Vancouver,2025,Jul,Monthly," 348,046 ",58,,"6,001",3.1
+Vancouver,2025,Aug,Monthly," 318,586 ",51,,"6,247",3.5
+Vancouver,2025,Sep,Monthly," 326,333 ",54,,"6,043",3.4
+Vancouver,2025,Oct,Monthly," 308,765 ",55,,"5,614",4.4
+Vancouver,2025,Nov,Monthly," 294,400 ",48,,"6,133",3.0
+Vancouver,2025,Dec,Monthly," 305,109 ",51,,"5,983",3.8
+Halifax,2024,Jan,Monthly," 37,122 ",56,,663,3.3
+Halifax,2024,Feb,Monthly," 37,993 ",64,,594,4.7
+Halifax,2024,Mar,Monthly," 41,652 ",65,,641,2.7
+Halifax,2024,Apr,Monthly," 44,106 ",70,,630,2.7
+Halifax,2024,May,Monthly," 39,467 ",66,,598,1.9
+Halifax,2024,Jun,Monthly," 35,093 ",59,,595,2.0
+Halifax,2024,Jul,Monthly," 38,099 ",65,,586,2.9
+Halifax,2024,Aug,Monthly," 37,151 ",63,,590,6.0
+Halifax,2024,Sep,Monthly," 37,157 ",56,,664,7.3
+Halifax,2024,Oct,Monthly," 56,337 ",80,,704,4.4
+Halifax,2024,Nov,Monthly," 58,354 ",67,,871,8.6
+Halifax,2024,Dec,Monthly," 46,704 ",69,,677,13.7
+Halifax,2025,Jan,Monthly,"44,038",63,,699,17.1
+Halifax,2025,Feb,Monthly,"40,030",55,,728,16.0
+Halifax,2025,Mar,Monthly,"46,235",60,,771,9.5
+Halifax,2025,Apr,Monthly,"38,708",61,,635,3.3
+Halifax,2025,May,Monthly,"46,468",62,,750,1.6
+Halifax,2025,Jun,Monthly,"43,909",61,,720,2.2
+Halifax,2025,Jul,Monthly,"41,444",63,,658,3.4
+Halifax,2025,Aug,Monthly,"44,366",65,,683,3.2
+Halifax,2025,Sep,Monthly,"39,516",59,,670,6.8
+Halifax,2025,Oct,Monthly,"43,049",67,,650,2.5
+Halifax,2025,Nov,Monthly,"39,253",56,,701,2.5
+Halifax,2025,Dec,Monthly,"35,164",61,,576,3.6
+Prince Rupert,2024,Jan,Monthly," 62,567 ",15,,"4,171",3.9
+Prince Rupert,2024,Feb,Monthly," 54,384 ",13,,"4,183",6.0
+Prince Rupert,2024,Mar,Monthly," 74,496 ",17,,"4,382",4.5
+Prince Rupert,2024,Apr,Monthly," 55,144 ",12,,"4,595",5.0
+Prince Rupert,2024,May,Monthly," 86,904 ",15,,"5,794",5.6
+Prince Rupert,2024,Jun,Monthly," 71,257 ",16,,"4,454",6.6
+Prince Rupert,2024,Jul,Monthly," 64,192 ",15,,"4,279",4.1
+Prince Rupert,2024,Aug,Monthly," 65,022 ",14,,"4,644",7.9
+Prince Rupert,2024,Sep,Monthly," 59,700 ",13,,"4,592",6.8
+Prince Rupert,2024,Oct,Monthly," 55,440 ",12,,"4,620",5.1
+Prince Rupert,2024,Nov,Monthly," 52,290 ",13,,"4,022",8.8
+Prince Rupert,2024,Dec,Monthly," 37,918 ",11,,"3,447",8.9
+Prince Rupert,2025,Jan,Monthly," 74,671 ",18,,"4,148",4.0
+Prince Rupert,2025,Feb,Monthly," 44,196 ",10,,"4,420",8.4
+Prince Rupert,2025,Mar,Monthly," 73,603 ",16,,"4,600",8.0
+Prince Rupert,2025,Apr,Monthly," 64,121 ",12,,"5,343",9.2
+Prince Rupert,2025,May,Monthly," 90,557 ",15,,"6,037",4.9
+Prince Rupert,2025,Jun,Monthly," 88,707 ",14,,"6,336",3.6
+Prince Rupert,2025,Jul,Monthly," 79,007 ",17,,"4,647",3.2
+Prince Rupert,2025,Aug,Monthly," 90,950 ",16,,"5,684",3.6
+Prince Rupert,2025,Sep,Monthly," 67,220 ",13,,"5,171",2.3
+Prince Rupert,2025,Oct,Monthly," 86,551 ",16,,"5,409",3.6
+Prince Rupert,2025,Nov,Monthly," 66,141 ",14,,"4,724",3.1
+Prince Rupert,2025,Dec,Monthly," 60,072 ",11,,"5,461",4.1
+Saint John,2024,Jan,Monthly," 16,589 ",20,,829,4.2
+Saint John,2024,Feb,Monthly," 14,885 ",20,,744,4.2
+Saint John,2024,Mar,Monthly," 14,848 ",17,,873,3.9
+Saint John,2024,Apr,Monthly," 14,885 ",21,,709,3.7
+Saint John,2024,May,Monthly," 12,945 ",17,,761,4.1
+Saint John,2024,Jun,Monthly," 14,800 ",20,,740,3.7
+Saint John,2024,Jul,Monthly," 12,585 ",18,,699,4.1
+Saint John,2024,Aug,Monthly," 16,246 ",19,,855,4.2
+Saint John,2024,Sep,Monthly," 10,455 ",15,,697,4.2
+Saint John,2024,Oct,Monthly," 21,713 ",19,,"1,143",4.4
+Saint John,2024,Nov,Monthly," 17,336 ",14,,"1,238",4.9
+Saint John,2024,Dec,Monthly," 17,592 ",19,,926,5.3
+Saint John,2025,Jan,Monthly," 17,048 ",16,,"1,066",7.4
+Saint John,2025,Feb,Monthly," 15,499 ",16,,969,7.8
+Saint John,2025,Mar,Monthly," 20,707 ",23,,900,8.4
+Saint John,2025,Apr,Monthly," 17,774 ",17,,"1,046",3.8
+Saint John,2025,May,Monthly," 20,688 ",21,,985,3.6
+Saint John,2025,Jun,Monthly," 23,010 ",21,,"1,096",3.7
+Saint John,2025,Jul,Monthly," 22,171 ",20,,"1,109",4.2
+Saint John,2025,Aug,Monthly," 23,648 ",21,,"1,126",4.7
+Saint John,2025,Sep,Monthly," 17,610 ",17,,"1,036",4.8
+Saint John,2025,Oct,Monthly," 21,218 ",16,,"1,326",4.4
+Saint John,2025,Nov,Monthly," 21,899 ",19,,"1,153",4.5
+Saint John,2025,Dec,Monthly," 18,092 ",18,,"1,005",7.7
+Montreal,2024,Jan,Monthly," 108,202 ",34,,"3,182",2.5
+Montreal,2024,Feb,Monthly," 115,122 ",35,,"3,289",2.5
+Montreal,2024,Mar,Monthly," 129,702 ",38,,"3,413",4.7
+Montreal,2024,Apr,Monthly," 131,099 ",39,,"3,362",5.9
+Montreal,2024,May,Monthly," 132,380 ",36,,"3,677",4.9
+Montreal,2024,Jun,Monthly," 120,959 ",34,,"3,558",5.2
+Montreal,2024,Jul,Monthly," 130,419 ",40,,"3,260",6.0
+Montreal,2024,Aug,Monthly," 124,077 ",41,,"3,026",6.9
+Montreal,2024,Sep,Monthly," 120,526 ",32,,"3,766",9.1
+Montreal,2024,Oct,Monthly," 131,604 ",38,,"3,463",8.7
+Montreal,2024,Nov,Monthly," 97,263 ",25,,"3,891",14.7
+Montreal,2024,Dec,Monthly," 122,968 ",38,,"3,236",12.7
+Montreal,2025,Jan,Monthly," 119,928 ",34,,"3,527",7.2
+Montreal,2025,Feb,Monthly," 105,736 ",31,,"3,411",6.9
+Montreal,2025,Mar,Monthly," 135,611 ",37,,"3,665",8.1
+Montreal,2025,Apr,Monthly," 142,221 ",38,,"3,743",6.7
+Montreal,2025,May,Monthly," 139,030 ",37,,"3,758",7.4
+Montreal,2025,Jun,Monthly," 148,341 ",38,,"3,904",5.6
+Montreal,2025,Jul,Monthly," 133,101 ",39,,"3,413",4.6
+Montreal,2025,Aug,Monthly," 125,633 ",38,,"3,306",3.8
+Montreal,2025,Sep,Monthly," 123,795 ",39,,"3,174",3.5
+Montreal,2025,Oct,Monthly," 111,376 ",41,,"2,716",4.3
+Montreal,2025,Nov,Monthly," 131,530 ",41,,"3,208",3.0
+Montreal,2025,Dec,Monthly," 101,047 ",35,,"2,887",4.7
+Vancouver,2026,Jan,Monthly," 316,797 ",56,,"5,657",4.8
+Vancouver,2026,Feb,Monthly," 299,210 ",47,,"6,366",6.2
+Vancouver,2026,Mar,Monthly," 319,070 ",52,,"6,136",5.9
+Vancouver,2026,Apr,Monthly," 325,065 ",52,,"6,251",5.9
+Vancouver,2026,May,Monthly," 338,990 ",54,,"6,278",5.9
+Vancouver,2026,Jun,Monthly," 302,461 ",47,,"6,435",4.6
+Halifax,2026,Jan,Monthly," 32,674 ",54,,605,1.7
+Halifax,2026,Feb,Monthly," 35,473 ",55,,645,3.0
+Halifax,2026,Mar,Monthly," 38,728 ",61,,635,7.3
+Halifax,2026,Apr,Monthly," 39,420 ",56,,704,8.0
+Halifax,2026,May,Monthly," 38,629 ",62,,623,3.7
+Halifax,2026,Jun,Monthly," 32,972 ",49,,673,1.9
+Saint John,2026,Jan,Monthly," 13,400 ",18,,744,5.2
+Saint John,2026,Feb,Monthly," 10,856 ",16,,679,4.2
+Saint John,2026,Mar,Monthly," 20,099 ",20,,"1,005",4.0
+Saint John,2026,Apr,Monthly," 16,712 ",18,,928,6.4
+Saint John,2026,May,Monthly," 15,392 ",18,,855,4.6
+Saint John,2026,Jun,Monthly," 15,737 ",18,,873,4.4
+Prince Rupert,2026,Jan,Monthly," 73,769 ",15,,"4,918",4.6
+Prince Rupert,2026,Feb,Monthly," 68,679 ",14,,"4,906",7.1
+Prince Rupert,2026,Mar,Monthly," 67,183 ",15,,"4,479",7.4
+Prince Rupert,2026,Apr,Monthly," 74,024 ",13,,"5,694",5.6
+Prince Rupert,2026,May,Monthly," 73,458 ",16,,"4,591",5.5
+Prince Rupert,2026,Jun,Monthly," 68,361 ",14,,"4,883",5.7
+Montreal,2026,Jan,Monthly," 107,482 ",32,,"3,359",5.8
+Montreal,2026,Feb,Monthly," 102,343 ",31,,"3,301",6.4
+Montreal,2026,Mar,Monthly," 154,370 ",44,,"3,508",5.1
+Montreal,2026,Apr,Monthly," 132,377 ",40,,"3,309",7.1
+Montreal,2026,May,Monthly," 150,473 ",45,,"3,344",4.5
+Montreal,2026,Jun,Monthly," 142,811 ",45,,"3,174",5.8
+Saint John,2026,Jul,Monthly," 12,622 ",18,,714,5.7
+Montreal,2026,Jul,Monthly," 148,841 ",43,,"3,461",6.5
+Vancouver,2026,Jul,Monthly," 358,576 ",56,,"6,403",4.2
+Prince Rupert,2026,Jul,Monthly," 74,897 ",17,,"4,406",3.2
+Halifax,2026,Jul,Monthly," 28,876 ",49,,589,1.9
